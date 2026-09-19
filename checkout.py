@@ -1,5 +1,10 @@
-def calculate(a, b):
+def add(a, b):
     total = a + b
     return total
 
-print(calculate(1,2))
+def subtract(a, b):
+    total = a - b
+    return total
+
+print(add(1,2))
+print(subtract(10,5))
