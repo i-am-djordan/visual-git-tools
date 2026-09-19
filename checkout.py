@@ -1,5 +1,5 @@
 def calculate(a, b):
-    total = a + 10 
+    total = a + b
     return total
 
 print(calculate(1,2))
